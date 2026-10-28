@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4seliBhc8SY=",
+  "dgSpecHash": "A5EFKEVtuAA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADSO\\Downloads\\TiendaOnlineEmanuel\\TiendaOnlineEmanuel.WASM\\TiendaOnlineEmanuel.WASM.csproj",
+  "projectFilePath": "C:\\Users\\ADSO\\Documents\\TiendaOnlineEmanuel\\TiendaOnlineEmanuel.WASM\\TiendaOnlineEmanuel.WASM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADSO\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.26\\microsoft.aspnetcore.authorization.8.0.26.nupkg.sha512",
     "C:\\Users\\ADSO\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.26\\microsoft.aspnetcore.components.8.0.26.nupkg.sha512",

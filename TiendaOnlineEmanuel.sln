@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37216.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaOnlineEmanuel.API", "TiendaOnlineEmanuel.API\TiendaOnlineEmanuel.API.csproj", "{8E83D637-E3AD-4DEB-926C-0DD3EF76194C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaOnlineEmanuel.WASM", "TiendaOnlineEmanuel.WASM\TiendaOnlineEmanuel.WASM.csproj", "{3B22DE21-87D8-48D7-B9B9-4039246649FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E83D637-E3AD-4DEB-926C-0DD3EF76194C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E83D637-E3AD-4DEB-926C-0DD3EF76194C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E83D637-E3AD-4DEB-926C-0DD3EF76194C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E83D637-E3AD-4DEB-926C-0DD3EF76194C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B22DE21-87D8-48D7-B9B9-4039246649FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B22DE21-87D8-48D7-B9B9-4039246649FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B22DE21-87D8-48D7-B9B9-4039246649FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B22DE21-87D8-48D7-B9B9-4039246649FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4EDA86B-ED60-41E1-A135-97DF545C1E4E}
+	EndGlobalSection
+EndGlobal

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "REdJRxpLjIY=",
+  "dgSpecHash": "jURFWve4fKA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADSO\\Downloads\\TiendaOnlineEmanuel\\TiendaOnlineEmanuel.API\\TiendaOnlineEmanuel.API.csproj",
+  "projectFilePath": "C:\\Users\\ADSO\\Documents\\TiendaOnlineEmanuel\\TiendaOnlineEmanuel.API\\TiendaOnlineEmanuel.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADSO\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ADSO\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

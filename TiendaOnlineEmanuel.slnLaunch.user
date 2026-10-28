@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "TiendaOnlineEmanuel.API\\TiendaOnlineEmanuel.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TiendaOnlineEmanuel.WASM\\TiendaOnlineEmanuel.WASM.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

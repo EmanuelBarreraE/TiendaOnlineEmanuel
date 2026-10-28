@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TiendaOnlineEmanuel.WASM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cd0ed968fb8a2d2a049c48d4456afef2628c09f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TiendaOnlineEmanuel.WASM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TiendaOnlineEmanuel.WASM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

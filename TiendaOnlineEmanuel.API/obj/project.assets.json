@@ -4459,11 +4459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADSO\\Downloads\\TiendaOnlineEmanuel\\TiendaOnlineEmanuel.API\\TiendaOnlineEmanuel.API.csproj",
+      "projectUniqueName": "C:\\Users\\ADSO\\Documents\\TiendaOnlineEmanuel\\TiendaOnlineEmanuel.API\\TiendaOnlineEmanuel.API.csproj",
       "projectName": "TiendaOnlineEmanuel.API",
-      "projectPath": "C:\\Users\\ADSO\\Downloads\\TiendaOnlineEmanuel\\TiendaOnlineEmanuel.API\\TiendaOnlineEmanuel.API.csproj",
+      "projectPath": "C:\\Users\\ADSO\\Documents\\TiendaOnlineEmanuel\\TiendaOnlineEmanuel.API\\TiendaOnlineEmanuel.API.csproj",
       "packagesPath": "C:\\Users\\ADSO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADSO\\Downloads\\TiendaOnlineEmanuel\\TiendaOnlineEmanuel.API\\obj\\",
+      "outputPath": "C:\\Users\\ADSO\\Documents\\TiendaOnlineEmanuel\\TiendaOnlineEmanuel.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADSO\\Downloads\\TiendaOnlineEmanuel\\TiendaOnlineEmanuel.WASM\\TiendaOnlineEmanuel.WASM.csproj": {}
+    "C:\\Users\\ADSO\\Documents\\TiendaOnlineEmanuel\\TiendaOnlineEmanuel.WASM\\TiendaOnlineEmanuel.WASM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADSO\\Downloads\\TiendaOnlineEmanuel\\TiendaOnlineEmanuel.WASM\\TiendaOnlineEmanuel.WASM.csproj": {
+    "C:\\Users\\ADSO\\Documents\\TiendaOnlineEmanuel\\TiendaOnlineEmanuel.WASM\\TiendaOnlineEmanuel.WASM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADSO\\Downloads\\TiendaOnlineEmanuel\\TiendaOnlineEmanuel.WASM\\TiendaOnlineEmanuel.WASM.csproj",
+        "projectUniqueName": "C:\\Users\\ADSO\\Documents\\TiendaOnlineEmanuel\\TiendaOnlineEmanuel.WASM\\TiendaOnlineEmanuel.WASM.csproj",
         "projectName": "TiendaOnlineEmanuel.WASM",
-        "projectPath": "C:\\Users\\ADSO\\Downloads\\TiendaOnlineEmanuel\\TiendaOnlineEmanuel.WASM\\TiendaOnlineEmanuel.WASM.csproj",
+        "projectPath": "C:\\Users\\ADSO\\Documents\\TiendaOnlineEmanuel\\TiendaOnlineEmanuel.WASM\\TiendaOnlineEmanuel.WASM.csproj",
         "packagesPath": "C:\\Users\\ADSO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADSO\\Downloads\\TiendaOnlineEmanuel\\TiendaOnlineEmanuel.WASM\\obj\\",
+        "outputPath": "C:\\Users\\ADSO\\Documents\\TiendaOnlineEmanuel\\TiendaOnlineEmanuel.WASM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
